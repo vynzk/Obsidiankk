@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "26e69684b49bd9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prueba escrito.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "prueba escrito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "prueba escrito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "prueba escrito.md"
+              }
             }
           }
         ],
@@ -139,8 +156,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b520a58174ee8695",
+  "active": "26e69684b49bd9db",
   "lastOpenFiles": [
+    "Ink/Writing/2024.5.5 - 22.45pm.writing",
+    "Ink/Writing",
+    "Ink",
+    "prueba escrito.md",
+    "Kernel",
     "Hacking ético/ngrok/Ngrok.md",
     "Hacking ético/Labs y máquinas/Laboratorio 4 unidad 2.md",
     "Hacking ético/Hacking ético.md",
@@ -175,13 +197,10 @@
     "Hacking ético/ngrok",
     "Hacking ético/Linux comandos útiles/Linux comandos.md",
     "Hacking ético/Linux comandos útiles",
-    "Hacking ético/Labs y máquinas",
     "Hacking ético/Hydra/Hydra.md",
     "Hacking ético/Hydra/Ataque de fuerza bruta.md",
-    "Hacking ético/Hydra",
     "Hacking ético/Escalado de privilegios/GTOFBin.md",
     "Hacking ético/Escalado de privilegios/Escalado de privilegios.md",
-    "Hacking ético/Escalado de privilegios",
     "Hacking ético/Docker/Docker.md"
   ]
 }
