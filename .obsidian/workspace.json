@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "086baad068591a8b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a5c00b997f0a0de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa1a49772af63dd6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "b520a58174ee8695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prueba.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4135f605e9e4ffcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d580cacdc620e34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4df0fa69c8ad5837",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56004ea77f7a6634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c77692036599866",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2f0cd8e3c7e4504",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b2e11170a04444",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ae248ed3e0b85b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "prueba.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ad57d70cb6381a5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "prueba.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d64dcaf2e2377853",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b8898ddb5a081f2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "prueba.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b520a58174ee8695",
+  "lastOpenFiles": [
+    "README.md",
+    "prueba.md",
+    "Pasted image 20240604155804.png",
+    "Pasted image 20240604153434.png",
+    "Pasted image 20240530230102.png",
+    "Pasted image 20240530205657.png",
+    "Pasted image 20240530205650.png",
+    "Notas Diarias/Notas diarias.md",
+    "Notas Diarias/2024-05-29.md",
+    "Notas Diarias",
+    "Hacking ético/Projs/Proyecto 1 Universidad de Talca - Seguridad Informaática.md",
+    "Hacking ético/Projs",
+    "Hacking ético/Otras herramientas/TheHarvester.md",
+    "Hacking ético/Otras herramientas",
+    "Hacking ético/nmap/WSL complicaciones.md",
+    "Hacking ético/nmap/Velocidad nmap.md",
+    "Hacking ético/nmap/Nmap.md",
+    "Hacking ético/nmap/Cómo saber procesos de puertos en una red privada.md",
+    "Hacking ético/nmap/Cómo escanear la red privada y saber el SO.md",
+    "Hacking ético/nmap",
+    "Hacking ético/ngrok/001-Ngrok.md",
+    "Hacking ético/ngrok",
+    "Hacking ético/Linux comandos útiles/Linux comandos.md",
+    "Hacking ético/Linux comandos útiles",
+    "Hacking ético/Labs y máquinas/Laboratorio 4 unidad 2.md",
+    "Hacking ético/Labs y máquinas/Informe Seguridad.md",
+    "Hacking ético/Labs y máquinas",
+    "Hacking ético/Hydra/Hydra.md",
+    "Hacking ético/Hydra/Ataque de fuerza bruta.md",
+    "Hacking ético/Hydra",
+    "Hacking ético/Escalado de privilegios/GTOFBin.md",
+    "Hacking ético/Escalado de privilegios/Escalado de privilegios.md",
+    "Hacking ético/Escalado de privilegios",
+    "Hacking ético/Docker/Docker.md",
+    "Hacking ético/Docker",
+    "Hacking ético/Burpsuite/Burpsuite.md",
+    "Hacking ético/Hacking ético.md",
+    "Pasted image 20240604170005.png",
+    "Pasted image 20240604165421.png",
+    "Pasted image 20240604164740.png",
+    "Pasted image 20240604164448.png",
+    "Pasted image 20240604163727.png"
+  ]
+}
