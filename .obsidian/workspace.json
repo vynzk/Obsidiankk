@@ -14,21 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "26e69684b49bd9db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prueba escrito.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 377.5
   },
   "right": {
     "id": "c2f0cd8e3c7e4504",
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba escrito.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba escrito.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "prueba escrito.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -156,18 +139,30 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "26e69684b49bd9db",
+  "active": "b520a58174ee8695",
   "lastOpenFiles": [
+    "Hacking ético/Hacking ético.md",
+    "Hacking ético/Docker/Docker.md",
+    "Hacking ético/Labs y máquinas/Proyecto 1 Universidad de Talca - Seguridad Informaática.md",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240605225744.png",
+    "Hacking ético/Labs y máquinas/Laboratorio 4 unidad 2.md",
+    "Hacking ético/Labs y máquinas/Informe Seguridad.md",
+    "Hacking ético/Docker/Adjuntos/Pasted image 20240605225732.png",
+    "Hacking ético/Docker/Adjuntos",
+    "Hacking ético/Docker/adjuntos/Pasted image 20240605225702.png",
+    "Hacking ético/Docker/adjuntos",
+    "Hacking ético/Docker/adj/Pasted image 20240605225630.png",
+    "Hacking ético/Docker/adj",
+    "Hacking ético/Docker/Pasted image 20240605225542.png",
+    "Hacking ético/Docker/Pasted image 20240605225442.png",
+    "Hacking ético/ngrok/Ngrok.md",
+    "Kernel/prueba escrito.md",
     "Ink/Writing/2024.5.5 - 22.45pm.writing",
+    "Notas Diarias/Notas diarias.md",
+    "Notas Diarias/2024-05-29.md",
     "Ink/Writing",
     "Ink",
-    "prueba escrito.md",
     "Kernel",
-    "Hacking ético/ngrok/Ngrok.md",
-    "Hacking ético/Labs y máquinas/Laboratorio 4 unidad 2.md",
-    "Hacking ético/Hacking ético.md",
-    "Hacking ético/Labs y máquinas/Proyecto 1 Universidad de Talca - Seguridad Informaática.md",
-    "Hacking ético/Labs y máquinas/Informe Seguridad.md",
     "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240530205650.png",
     "Hacking ético/Labs y máquinas/Adjuntos",
     "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604164740.png",
@@ -176,31 +171,18 @@
     "Hacking ético/Burpsuite/Burpsuite.md",
     "prueba.md",
     "README.md",
-    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604164448.png",
-    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604163727.png",
-    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604155815.png",
-    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604155804.png",
-    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604153434.png",
-    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240530230102.png",
-    "Notas Diarias/Notas diarias.md",
-    "Notas Diarias/2024-05-29.md",
     "Notas Diarias",
     "Hacking ético/Projs",
     "Hacking ético/Otras herramientas/TheHarvester.md",
-    "Hacking ético/Otras herramientas",
     "Hacking ético/nmap/WSL complicaciones.md",
     "Hacking ético/nmap/Velocidad nmap.md",
     "Hacking ético/nmap/Nmap.md",
     "Hacking ético/nmap/Cómo saber procesos de puertos en una red privada.md",
     "Hacking ético/nmap/Cómo escanear la red privada y saber el SO.md",
-    "Hacking ético/nmap",
-    "Hacking ético/ngrok",
     "Hacking ético/Linux comandos útiles/Linux comandos.md",
-    "Hacking ético/Linux comandos útiles",
     "Hacking ético/Hydra/Hydra.md",
     "Hacking ético/Hydra/Ataque de fuerza bruta.md",
     "Hacking ético/Escalado de privilegios/GTOFBin.md",
-    "Hacking ético/Escalado de privilegios/Escalado de privilegios.md",
-    "Hacking ético/Docker/Docker.md"
+    "Hacking ético/Escalado de privilegios/Escalado de privilegios.md"
   ]
 }

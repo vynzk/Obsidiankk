@@ -14,3 +14,4 @@
 - [[Cómo saber procesos de puertos en una red privada]] 
 - [[Ataque de fuerza bruta]] 
 - [[Escalado de privilegios]]
+![[Pasted image 20240605225744.png]]
