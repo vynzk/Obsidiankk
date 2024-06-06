@@ -8,27 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa1a49772af63dd6",
+            "id": "b520a58174ee8695",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "b520a58174ee8695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prueba.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "prueba.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "prueba.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +118,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "prueba.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -147,27 +131,38 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
   "active": "b520a58174ee8695",
   "lastOpenFiles": [
-    "README.md",
+    "Hacking ético/ngrok/Ngrok.md",
+    "Hacking ético/Labs y máquinas/Laboratorio 4 unidad 2.md",
+    "Hacking ético/Hacking ético.md",
+    "Hacking ético/Labs y máquinas/Proyecto 1 Universidad de Talca - Seguridad Informaática.md",
+    "Hacking ético/Labs y máquinas/Informe Seguridad.md",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240530205650.png",
+    "Hacking ético/Labs y máquinas/Adjuntos",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604164740.png",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604165421.png",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604170005.png",
+    "Hacking ético/Burpsuite/Burpsuite.md",
     "prueba.md",
-    "Pasted image 20240604155804.png",
-    "Pasted image 20240604153434.png",
-    "Pasted image 20240530230102.png",
-    "Pasted image 20240530205657.png",
-    "Pasted image 20240530205650.png",
+    "README.md",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604164448.png",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604163727.png",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604155815.png",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604155804.png",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240604153434.png",
+    "Hacking ético/Labs y máquinas/Adjuntos/Pasted image 20240530230102.png",
     "Notas Diarias/Notas diarias.md",
     "Notas Diarias/2024-05-29.md",
     "Notas Diarias",
-    "Hacking ético/Projs/Proyecto 1 Universidad de Talca - Seguridad Informaática.md",
     "Hacking ético/Projs",
     "Hacking ético/Otras herramientas/TheHarvester.md",
     "Hacking ético/Otras herramientas",
@@ -177,12 +172,9 @@
     "Hacking ético/nmap/Cómo saber procesos de puertos en una red privada.md",
     "Hacking ético/nmap/Cómo escanear la red privada y saber el SO.md",
     "Hacking ético/nmap",
-    "Hacking ético/ngrok/001-Ngrok.md",
     "Hacking ético/ngrok",
     "Hacking ético/Linux comandos útiles/Linux comandos.md",
     "Hacking ético/Linux comandos útiles",
-    "Hacking ético/Labs y máquinas/Laboratorio 4 unidad 2.md",
-    "Hacking ético/Labs y máquinas/Informe Seguridad.md",
     "Hacking ético/Labs y máquinas",
     "Hacking ético/Hydra/Hydra.md",
     "Hacking ético/Hydra/Ataque de fuerza bruta.md",
@@ -190,14 +182,6 @@
     "Hacking ético/Escalado de privilegios/GTOFBin.md",
     "Hacking ético/Escalado de privilegios/Escalado de privilegios.md",
     "Hacking ético/Escalado de privilegios",
-    "Hacking ético/Docker/Docker.md",
-    "Hacking ético/Docker",
-    "Hacking ético/Burpsuite/Burpsuite.md",
-    "Hacking ético/Hacking ético.md",
-    "Pasted image 20240604170005.png",
-    "Pasted image 20240604165421.png",
-    "Pasted image 20240604164740.png",
-    "Pasted image 20240604164448.png",
-    "Pasted image 20240604163727.png"
+    "Hacking ético/Docker/Docker.md"
   ]
 }
